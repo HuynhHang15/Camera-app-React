@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/camera-app-react/static/css/main.53ce545b.css",
+    "main.js": "/camera-app-react/static/js/main.439d89c8.js",
+    "index.html": "/camera-app-react/index.html",
+    "main.53ce545b.css.map": "/camera-app-react/static/css/main.53ce545b.css.map",
+    "main.439d89c8.js.map": "/camera-app-react/static/js/main.439d89c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53ce545b.css",
+    "static/js/main.439d89c8.js"
+  ]
+}
